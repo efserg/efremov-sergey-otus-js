@@ -3,7 +3,7 @@ const sum = (x) => {
     let acc = 0;
 
     const innerSum = (x) => {
-        if (x && x !== 0) {
+        if (x || x === 0) {
             acc += x;
             return innerSum;
         }
