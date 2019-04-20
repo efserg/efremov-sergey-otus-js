@@ -1,0 +1,7 @@
+{
+  "name": "node-server-request",
+  "version": "1.0.0",
+  "dependencies": {
+    "minimist": "latest"
+  }
+}
