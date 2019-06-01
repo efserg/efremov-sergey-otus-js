@@ -1,0 +1,10 @@
+{
+  "name": "file-system-tree",
+  "version": "1.0.0",
+  "dependencies": {
+    "minimist": "latest",
+    "events": "latest",
+    "fs": "latest",
+    "path": "latest"
+  }
+}
