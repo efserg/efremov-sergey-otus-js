@@ -5,6 +5,11 @@
     "minimist": "latest",
     "events": "latest",
     "fs": "latest",
-    "path": "latest"
+    "path": "latest",
+    "jest": "latest"
+  },
+  "scripts": {
+    "tree": "node index.js",
+    "test": "jest"
   }
 }
