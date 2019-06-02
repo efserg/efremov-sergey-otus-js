@@ -5,6 +5,6 @@
     "stream": "latest"
   },
   "scripts": {
-    "read": "node index.js"
+    "stream": "node index.js"
   }
 }
