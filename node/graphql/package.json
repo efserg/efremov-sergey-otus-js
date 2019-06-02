@@ -1,0 +1,13 @@
+{
+  "name": "e-commerce-graph-ql",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "latest",
+    "express-graphql": "latest",
+    "graphql": "latest",
+    "lodash": "latest"
+  },
+  "scripts": {
+    "tree": "node index.js"
+  }
+}
