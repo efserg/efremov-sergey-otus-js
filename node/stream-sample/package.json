@@ -2,5 +2,9 @@
   "name": "nodejs-streams-sample",
   "version": "1.0.0",
   "dependencies": {
+    "stream": "latest"
+  },
+  "scripts": {
+    "read": "node index.js"
   }
 }
