@@ -5,7 +5,6 @@
     "minimist": "latest",
     "events": "latest",
     "fs": "latest",
-    "path": "latest",
     "jest": "latest"
   },
   "scripts": {
