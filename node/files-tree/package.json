@@ -1,0 +1,14 @@
+{
+  "name": "file-system-tree",
+  "version": "1.0.0",
+  "dependencies": {
+    "minimist": "latest",
+    "events": "latest",
+    "fs": "latest",
+    "jest": "latest"
+  },
+  "scripts": {
+    "tree": "node index.js",
+    "test": "jest"
+  }
+}
